@@ -5,7 +5,7 @@ Sharing on Thingiverse :
 http://www.thingiverse.com/thing:954701
 
 
-Printing Instructions
+<b>Printing Instructions</b>
 
 I make this series residential building by taking photos near my place. Actually, everywhere I live and everyday I travel, also got plenty of such buildings. So easy to look at them in details.
 
@@ -20,7 +20,7 @@ Fill Density : 0 %
 Hope you enjoy it!
 
 
-Artpiece Summary
+<b>Artpiece Summary</b>
 
 Hong Kong is a place full of housing units, residential buildings. It's different from other places, the most significant building isn't a special landmark. To most hong kong people, a simple unit to live in, is always what they think and work for entire life in fact.
 
